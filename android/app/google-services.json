@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4029397392",
+    "project_id": "ping-me-285fd",
+    "storage_bucket": "ping-me-285fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4029397392:android:8e1ffd83112aec860cdb15",
+        "android_client_info": {
+          "package_name": "com.example.ping_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPhHbVUIoI2q5bBrGnqQCBO-7dzVssRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
